@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restaurantswebsite/static/css/main.cd1edd14.css",
+    "main.js": "/restaurantswebsite/static/js/main.1ac8d73b.js",
+    "static/media/meal.mp4": "/restaurantswebsite/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/restaurantswebsite/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/restaurantswebsite/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/restaurantswebsite/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/restaurantswebsite/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/restaurantswebsite/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/restaurantswebsite/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/restaurantswebsite/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/restaurantswebsite/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/restaurantswebsite/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/restaurantswebsite/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/restaurantswebsite/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/restaurantswebsite/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/restaurantswebsite/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/restaurantswebsite/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/restaurantswebsite/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restaurantswebsite/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restaurantswebsite/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restaurantswebsite/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/restaurantswebsite/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/restaurantswebsite/index.html",
+    "static/media/spoon.svg": "/restaurantswebsite/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.cd1edd14.css.map": "/restaurantswebsite/static/css/main.cd1edd14.css.map",
+    "main.1ac8d73b.js.map": "/restaurantswebsite/static/js/main.1ac8d73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1edd14.css",
+    "static/js/main.1ac8d73b.js"
+  ]
+}
